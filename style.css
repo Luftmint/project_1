@@ -1,1 +1,21 @@
-
+body{
+    background-color:#24242B;
+}
+h1{
+    color:white;
+}
+ul{
+    color:#DEDEB8;
+    font-family:"Ojuju";
+}
+h2{
+    color:#D9D9DB;
+    background-color:#313142;
+}
+p{
+    color:#DEDEB8;
+}
+h3{
+    color:#D9D9DB;
+    background-color:#313142;
+}
